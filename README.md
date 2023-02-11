@@ -86,4 +86,5 @@ router.beforeEach((to, from, next) => {
 
 ## 4 详细代码
 具体代码，请访问GitHub仓库
-GitHub仓库地址：
+
+GitHub仓库地址: [https://github.com/Jin0811/KeepAlive](https://github.com/Jin0811/KeepAlive)
